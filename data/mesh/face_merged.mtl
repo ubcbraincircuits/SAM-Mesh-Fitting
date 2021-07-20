@@ -1,0 +1,98 @@
+# Blender MTL File: 'face.blend'
+# Material Count: 8
+
+newmtl class_1_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_1_texture.png
+map_Kd class_1_texture.png
+
+newmtl class_2_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_2_texture.png
+map_Kd class_2_texture.png
+
+newmtl class_3_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_3_texture.png
+map_Kd class_3_texture.png
+
+newmtl class_4_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_4_texture.png
+map_Kd class_4_texture.png
+
+newmtl class_5_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_5_texture.png
+map_Kd class_5_texture.png
+
+newmtl class_6_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_6_texture.png
+map_Kd class_6_texture.png
+
+newmtl class_7_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_7_texture.png
+map_Kd class_7_texture.png
+
+newmtl class_8_tex
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.905194 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ka class_8_texture.png
+map_Kd class_8_texture.png
